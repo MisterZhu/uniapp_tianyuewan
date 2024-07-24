@@ -40,7 +40,6 @@ const itmeAry = <MineItemModel[]>[
     //     line_shou: false,
     //     head_shou: false,
     //     share_shou: false,
-
     // },
     {
         left_img: "/static/mine/mine_fankui.png",
@@ -51,8 +50,6 @@ const itmeAry = <MineItemModel[]>[
         head_shou: true,
         share_shou: false,
         radius_type: 3,
-
-
     },
 ]
 //用户信息模块
